@@ -1,0 +1,28 @@
+.container{
+    margin-top: 20px;
+}
+.p-3 mb-2 bg-info text-dark{
+    padding: 3px;
+}
+.btn{
+    color: black;
+    font-weight: bold;
+    transition: background-color 2s;
+}
+.btn:hover{
+    background-color: brown;
+}
+h1{
+    color: brown;
+    font-weight: 800;
+    transition: color 2s;
+}
+h1:hover{
+    color: black;
+}
+.form-control{
+    color: black;
+    font-weight: 700;
+    border-radius: 10px;
+  
+}
